@@ -1,0 +1,533 @@
+[
+    {
+      "number": 1,
+      "question": "What is Sentient.xyz primarily building?",
+      "options": [
+        "A centralized AI model",
+        "A decentralized AI economy",
+        "A social media platform",
+        "A gaming engine"
+      ],
+      "answer": 2
+    },
+    {
+      "number": 2,
+      "question": "Which framework outlines Sentient’s philosophy of AI?",
+      "options": [
+        "OOP",
+        "OML",
+        "GAN",
+        "RLHF"
+      ],
+      "answer": 2
+    },
+    {
+      "number": 3,
+      "question": "What does the 'O' in OML stand for?",
+      "options": [
+        "Ownership",
+        "Open",
+        "Obsolete",
+        "Optimized"
+      ],
+      "answer": 2
+    },
+    {
+      "number": 4,
+      "question": "What does the 'M' in OML signify?",
+      "options": [
+        "Monetizable",
+        "Model",
+        "Managed",
+        "Modular"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 5,
+      "question": "The 'L' in OML means:",
+      "options": [
+        "Loyal",
+        "Large",
+        "Linear",
+        "Licensed"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 6,
+      "question": "What technique does Sentient use to enforce ownership?",
+      "options": [
+        "Model fingerprinting",
+        "Watermarking",
+        "Encrypted zip",
+        "License key"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 7,
+      "question": "Model fingerprinting embeds what into models?",
+      "options": [
+        "Visible watermark",
+        "Hidden query‑response pairs",
+        "License file",
+        "Signature image"
+      ],
+      "answer": 2
+    },
+    {
+      "number": 8,
+      "question": "Who governs Sentient’s protocol decisions?",
+      "options": [
+        "Central corporation",
+        "Sentient Foundation DAO",
+        "Individual users",
+        "Advertising agency"
+      ],
+      "answer": 2
+    },
+    {
+      "number": 9,
+      "question": "Sentient’s AI pipeline core process includes:",
+      "options": [
+        "Data Curation",
+        "Mining tokens",
+        "Rendering images",
+        "Hosting websites"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 10,
+      "question": "The pipeline process that aligns model behavior to community intent is called:",
+      "options": [
+        "Loyalty Training",
+        "Fine‑tuning",
+        "Reinforcement learning",
+        "Privileged training"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 11,
+      "question": "Sentient aims to build:",
+      "options": [
+        "Closed AGI",
+        "Community‑built AGI",
+        "Single application",
+        "Video game AI"
+      ],
+      "answer": 2
+    },
+    {
+      "number": 12,
+      "question": "Which flagship AI model did Sentient launch in early 2025?",
+      "options": [
+        "Dobby",
+        "Alpha",
+        "Grok",
+        "Loki"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 13,
+      "question": "About how many users joined waitlist for Sentient Chat?",
+      "options": [
+        "660",
+        "660,000",
+        "6 million",
+        "66 million"
+      ],
+      "answer": 2
+    },
+    {
+      "number": 14,
+      "question": "Sentient Chat is powered by which model?",
+      "options": [
+        "Dobby",
+        "ChatGPT",
+        "PaLM",
+        "LLaMA"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 15,
+      "question": "Which funding round raised around $85M for Sentient?",
+      "options": [
+        "Series A",
+        "Seed",
+        "IPO",
+        "Angel"
+      ],
+      "answer": 2
+    },
+    {
+      "number": 16,
+      "question": "Which among these is NOT part of OML?",
+      "options": [
+        "Optimized",
+        "Open",
+        "Monetizable",
+        "Loyal"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 17,
+      "question": "Which technology enables decentralization in Sentient?",
+      "options": [
+        "Blockchain",
+        "Cloud servers",
+        "VPN",
+        "FTP"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 18,
+      "question": "Data Curation is community‑driven: true or false?",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 19,
+      "question": "Which type of cryptography does Sentient propose?",
+      "options": [
+        "AI-native cryptography",
+        "RSA",
+        "AES",
+        "MD5"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 20,
+      "question": "AI-native cryptography is:",
+      "options": [
+        "Verifiable but non-removable",
+        "Easily hackable",
+        "Only for images",
+        "License-based"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 21,
+      "question": "Sentient is built by:",
+      "options": [
+        "Sentient Foundation non‑profit",
+        "A private corporation",
+        "Government agency",
+        "University team"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 22,
+      "question": "Which describes 'Loyal AI'?",
+      "options": [
+        "Community-aligned and evolving",
+        "Owned by company",
+        "Single-purpose bots",
+        "Centralized models"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 23,
+      "question": "Sentient has how many core architecture components?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 24,
+      "question": "Which is NOT a component of the protocol?",
+      "options": [
+        "AI Pipeline",
+        "Blockchain system",
+        "Data lake",
+        "Governance DAO"
+      ],
+      "answer": 3
+    },
+    {
+      "number": 25,
+      "question": "One principle of Sentient’s vision is:",
+      "options": [
+        "Monopoly control",
+        "Open access",
+        "Governed by one company",
+        "Closed‑source only"
+      ],
+      "answer": 2
+    },
+    {
+      "number": 26,
+      "question": "Who can monetize AI models on Sentient?",
+      "options": [
+        "Creators and contributors",
+        "Only company",
+        "Users only",
+        "Advertisers"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 27,
+      "question": "Which is a role in Sentient’s ecosystem?",
+      "options": [
+        "Model Verifier (Prover)",
+        "Bank teller",
+        "Teacher",
+        "Trader"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 28,
+      "question": "Which platform layer regulates usage licenses and fees?",
+      "options": [
+        "Access Layer",
+        "Storage Layer",
+        "Incentive Layer",
+        "UI Layer"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 29,
+      "question": "The Incentive Layer distributes rewards using:",
+      "options": [
+        "On-chain contracts",
+        "Credit cards",
+        "Cash",
+        "Email invoicing"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 30,
+      "question": "Which LLM competitor did Sentient enter against?",
+      "options": [
+        "OpenAI",
+        "Google DeepMind",
+        "Anthropic",
+        "All of above"
+      ],
+      "answer": 4
+    },
+    {
+      "number": 31,
+      "question": "General AI (AGI) means:",
+      "options": [
+        "Any intellectual task a human can do",
+        "Only playing chess",
+        "Only image generation",
+        "Only statistics"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 32,
+      "question": "Machine learning type that maximizes reward is called:",
+      "options": [
+        "Reinforcement learning",
+        "Supervised learning",
+        "Unsupervised learning",
+        "Genetic algorithms"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 33,
+      "question": "Which is a decentralized identity standard used in agent systems?",
+      "options": [
+        "DID",
+        "SSN",
+        "URL",
+        "SMTP"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 34,
+      "question": "What does DeAgent refer to?",
+      "options": [
+        "Self-sovereign autonomous AI agent",
+        "Chatbot only",
+        "Game NPC",
+        "Image filter"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 35,
+      "question": "Trustless autonomy means:",
+      "options": [
+        "Agent owns own key, no central control",
+        "Agent runs offline",
+        "Agent requires password",
+        "Agent is human"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 36,
+      "question": "A modern research dilemma in DeAgents is:",
+      "options": [
+        "Trustlessness vs reliability",
+        "Scalability vs size",
+        "Speed vs cost",
+        "Accuracy vs style"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 37,
+      "question": "What is LOKA Protocol about?",
+      "options": [
+        "Ethical multi-agent coordination",
+        "Image rendering",
+        "Token trading",
+        "Database syncing"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 38,
+      "question": "LOKA includes a layer for:",
+      "options": [
+        "Universal Agent Identity",
+        "Cloud hosting",
+        "Single sign-on",
+        "Database indexing"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 39,
+      "question": "Decentralized governance for AI agents is addressed by:",
+      "options": [
+        "ETHOS framework",
+        "Corporate board",
+        "Single admin",
+        "Manual oversight"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 40,
+      "question": "Emergent behavior in AI refers to:",
+      "options": [
+        "Unexpected capabilities from simple rules",
+        "Random outputs",
+        "Error messages",
+        "License warnings"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 41,
+      "question": "Sentient raised funding led by:",
+      "options": [
+        "Pantera, Delphi, Arrington",
+        "Facebook",
+        "Google",
+        "OpenAI"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 42,
+      "question": "Sentient’s primary industry is:",
+      "options": [
+        "Open-source AI protocol",
+        "E-commerce",
+        "Fintech",
+        "Gaming"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 43,
+      "question": "Sentient is headquartered in:",
+      "options": [
+        "Incline Village, NV",
+        "New York, NY",
+        "San Francisco, CA",
+        "London, UK"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 44,
+      "question": "Sentient is:",
+      "options": [
+        "A private non-profit",
+        "A public company",
+        "A government agency",
+        "A university"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 45,
+      "question": "General AI differs from narrow AI by:",
+      "options": [
+        "Being able to generalize across tasks",
+        "Playing one game",
+        "Predicting images",
+        "Sorting emails"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 46,
+      "question": "Decentralized AI network avoids:",
+      "options": [
+        "Single point of failure",
+        "Multiple nodes",
+        "Users",
+        "Developers"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 47,
+      "question": "Transparency in Sentient’s system is enabled by:",
+      "options": [
+        "Blockchain",
+        "VPN",
+        "Email logs",
+        "Cloud backups"
+      ],
+      "answer": 1
+    },
+    {
+      "number": 48,
+      "question": "Sentient’s mission includes ensuring AGI is loyal to:",
+      "options": [
+        "Humanity",
+        "Corporations",
+        "Governments",
+        "Advertisers"
+      ],
+      "answer": 1
+    }
+  ]
+  
+
+
+
+
