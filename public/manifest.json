@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Sentient Trivia",
+  "name": "Sentient Trivia - AGI Quiz Game",
   "icons": [
     {
       "src": "favicon.ico",
